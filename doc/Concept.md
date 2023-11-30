@@ -15,6 +15,7 @@
 | Automation | CLI, predefined profiles | CLI, YAML configuration | CLI, YAML configuration |
 | Monitoring | + | - | - |
 | Addons | + | - | - |
+| Podman | + | + | + |
 
 ## Tradeoffs
 
@@ -40,3 +41,5 @@ All three solutions, minikube, k3d and kind are very similar. Each has pros and 
 I have a gut feeling that minikube is slightly ahead of all options and the closest to the official Kubernetes development roadmap. It appears to be slightly ahead, providing a robust option, especially for developers who may be relatively new to DevOps practices. Minikube, with its low entry barrier, seems particularly well-suited for individual developers or small teams starting their journey with Kubernetes. In my recommendation, minikube stands out as an excellent choice for those venturing into Kubernetes for the first time.
 
 ## Demo
+
+![Demo minikube](./assets/demo.gif)
