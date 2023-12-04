@@ -3,6 +3,10 @@
         "MD033": false
     },
     "cSpell.words": [
-        "AsciiArtify"
+        "apiserver",
+        "argocd",
+        "AsciiArtify",
+        "kubeconfig",
+        "kubelet"
     ]
 }
