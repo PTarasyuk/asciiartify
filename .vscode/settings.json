@@ -8,5 +8,9 @@
         "AsciiArtify",
         "kubeconfig",
         "kubelet"
+    ],
+    "commentTranslate.hover.enabled": false,
+    "cSpell.ignoreWords": [
+        "argoproj"
     ]
 }
